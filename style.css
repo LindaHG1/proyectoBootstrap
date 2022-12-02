@@ -1,0 +1,40 @@
+/*body fondo*/
+body {
+  font-family: "Comic Neue", cursive;
+  background-color: lightpink;
+}
+
+.castillo {
+  background-image: url(../imagenes/castle4.jpg);
+  background-size: 100% 100%;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+/*navegador*/
+.bg-dark {
+  background-color: lightpink !important;
+}
+.imagen-logo {
+  width: 60px;
+}
+/*carrusel*/
+
+#myCarousel {
+  background-color: lightpink !important;
+}
+.carousel-item {
+  width: 100%;
+  max-height: 45.62em;
+}
+
+/*formulario registro*/
+
+.container.marketing {
+  padding: 50px;
+}
+
+.sombra {
+  background-color: rgba(235, 121, 163, 0.365);
+  padding: 10px;
+}

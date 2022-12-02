@@ -1,0 +1,46 @@
+body {
+  font-family: "Comic Neue", cursive;
+}
+
+.castillo {
+  background-image: url(../imagenes/castle4.jpg);
+  background-size: 100% 100%;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+/*navegador*/
+.bg-dark {
+  background-color: lightpink !important;
+}
+
+
+/*sobre nosotras*/
+h2 .Sobre-nosotras {
+  font-size: 30px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/*main*/
+.Sobre-nosotras {
+  margin-top: 5%;
+  padding: 3px;
+}
+
+#fondotexto {
+  background-color: rgba(235, 121, 163, 0.365);
+  margin: 1%;
+  padding: 1%;
+  line-height: 2rem;
+  display: inline-block;
+  justify-content: space-between;
+}
+.gato {
+  padding-left: 1px;
+
+}

@@ -1,0 +1,44 @@
+body {
+  font-family: "Comic Neue", cursive;
+  margin: 0 auto;
+  max-width: 50em;
+}
+
+.castillo {
+  background-image: url(../imagenes/castle4.jpg);
+  background-size: 100% 100%;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+/*navegador*/
+.bg-dark {
+  background-color: lightpink !important;
+}
+/*imagenes de series*/
+.fotobella {
+  border-radius: 50%;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+.titulo-series {
+  color: #e757af !important;
+  font-weight: bold;
+  justify-content: space-between;
+  background-color: lightpink;
+  border-radius: 30px;
+  padding: 20px;
+  margin-top: 10%;
+}
+
+.Sobre-nosotras {
+  font-size: 20px;
+}
+
+.featurette .lead {
+  font-size: 10px !important;
+  font-weight: 600;
+  color: #7a325e !important;
+}
+
